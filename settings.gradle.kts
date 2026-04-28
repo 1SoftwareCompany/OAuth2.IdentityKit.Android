@@ -1,0 +1,2 @@
+include(":identitykitdemoapp")
+include(":identitykit")

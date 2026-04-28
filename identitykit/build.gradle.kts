@@ -9,8 +9,8 @@ android {
 
     defaultConfig {
         minSdk = 21
-        buildConfigField("int", "VERSION_CODE", "43")
-        buildConfigField("String", "VERSION_NAME", "\"1.0.2\"")
+        buildConfigField("int", "VERSION_CODE", "44")
+        buildConfigField("String", "VERSION_NAME", "\"1.1.0\"")
 
         // FIX: Updated to AndroidX (Support library is deprecated and incompatible with SDK 35)
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
